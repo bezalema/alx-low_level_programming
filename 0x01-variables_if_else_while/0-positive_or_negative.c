@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- *main - entry point
+ * main - assign a random number to the variable n and print it
  *
- *return: always 0 (success)
+ * return: always 0 (success)
  */
 int main(void)
 {
